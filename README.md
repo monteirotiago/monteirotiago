@@ -1,3 +1,8 @@
+
+![LinkedInAndGitHub](https://user-images.githubusercontent.com/4780984/192599274-873ccb11-99f8-4e09-adac-c9833bc44c00.gif)
+
+<hr size="10" width="100%" align="center" noshade>
+
 ### Hi there 👋
 
 <!--
